@@ -8,10 +8,13 @@
 
 - [@FOCKUSTY](https://github.com/FOCKUSTY)
   - Основатель, бекенд-разработчик
-- [@aculaOne](https://github.com/aculaOne)
+- [@lanvalird](https://github.com/lanvalird)
   - Дизайнер, фронтенд-разработчик
 - ~Омонилло
   - Промоутер
 
 Полный список [на сайте](https://laf-info.netlify.app/#members) команды.
 
+## Кофе
+
+И печеньки... Да, написать пока нечего.
